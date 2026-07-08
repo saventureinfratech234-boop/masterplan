@@ -79,7 +79,7 @@ MASTER PLAN
 
 .master-plan{
     width:100%;
-    padding:60px 4%;
+    padding:40px 4%;
 }
 
 .container{
@@ -87,12 +87,12 @@ MASTER PLAN
     display:flex;
     justify-content:space-between;
     align-items:center;
-    gap:40px;
-    padding:80px 60px;
+    gap:20px;
+    padding:40px 60px;
 }
 
 .left{
-    width:35%;
+    width:55%;
 }
 
 .left h1{
@@ -123,7 +123,7 @@ MASTER PLAN
 }
 
 .image-box img{
-    width:100%;
+    width:50%;
     max-width:850px;
     border-radius:6px;
     transition:.45s;
